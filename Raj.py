@@ -64,8 +64,8 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 ░ ░░ ░ ░ ░ ░ ▒  ░      ░     ░   ▒    ▒ ░  ░ ░   
 ░  ░       ░ ░         ░         ░  ░ ░      ░  ░
                                                  
-               WhatsApp: 03124788959
-                        KOMAIL
+               WhatsApp: 01316577116
+                        Raj
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
@@ -80,10 +80,10 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
           ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
       ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
+\033[1;96mAuthor  \033[1;93m: \033[1;92mRaj-Khondokar
 \033[1;96mInstagram \033[1;93m: \033[1: itx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1: komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
+\033[1;96mFacebook  \033[1;93m: \033[1: raj.hasan.3152130
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Imran-Khondokar/Hacker
 \033[1;91m======================================="""
 
 def tik():
@@ -104,34 +104,32 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m
- ██ ▄█▀ ▒█████   ███▄ ▄███▓ ▄▄▄       ██▓ ██▓    
- ██▄█▒ ▒██▒  ██▒▓██▒▀█▀ ██▒▒████▄    ▓██▒▓██▒    
-▓███▄░ ▒██░  ██▒▓██    ▓██░▒██  ▀█▄  ▒██▒▒██░    
-▓██ █▄ ▒██   ██░▒██    ▒██ ░██▄▄▄▄██ ░██░▒██░    
-▒██▒ █▄░ ████▓▒░▒██▒   ░██▒ ▓█   ▓██▒░██░░██████▒
-▒ ▒▒ ▓▒░ ▒░▒░▒░ ░ ▒░   ░  ░ ▒▒   ▓▒█░░▓  ░ ▒░▓  ░
-░ ░▒ ▒░  ░ ▒ ▒░ ░  ░      ░  ▒   ▒▒ ░ ▒ ░░ ░ ▒  ░
-░ ░░ ░ ░ ░ ░ ▒  ░      ░     ░   ▒    ▒ ░  ░ ░   
-░  ░       ░ ░         ░         ░  ░ ░      ░  ░
-                        KOMAIL
+██████╗░░█████╗░░░░░░██╗
+██╔══██╗██╔══██╗░░░░░██║
+██████╔╝███████║░░░░░██║
+██╔══██╗██╔══██║██╗░░██║
+██║░░██║██║░░██║╚█████╔╝
+╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░
+
+                        RAJ
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
                      ▇▏╱▔▕▎▔▔╲▕▇
-                     ▇◣◣▃▅▎▅▃◢◢▇
+                     ▇◣◣▃▅▎▅▃◢◢▇"""
                      ▇▇◣◥▅▅▅◤◢▇▇
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
-                   WhatsApp : 03124788959
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
+                   WhatsApp : 01316577116
+\033[1;96mAuthor  \033[1;93m: \033[1;92mRaj Khondokar
 \033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1;92m komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
+\033[1;96mFacebook  \033[1;93m: \033[1;92mraj.hasan.3152130 
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Imran-Khondokar/Hacker
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "komail"
-CorrectPassword = "khan"
+CorrectUsername = "raj"
+CorrectPassword = "khomdokar"
 
 loop = 'true'
 while (loop == 'true'):
@@ -452,7 +450,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print 42*"\033[1;96m="
-	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Komail says Thank You♥️ \033[1;97m....'
+	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mProcess Has Been Completed Khondokar Raj says Thank You♥️ \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print("\033[1;96m[+] \033[1;92mTHANKS FOR USING MY COMMANDS ! WE WILL BE RIGHT BACK \033[1;91m: \033[1;97mout/checkpoint.txt")
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
